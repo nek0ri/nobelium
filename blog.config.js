@@ -1,7 +1,7 @@
 const BLOG = {
   title: '声呐研究所',
   author: '猫梨(nekori)',
-  email: 'mattlee-personal@outlook.com',
+  email: 'nekonekori@outlook.com',
   link: 'https://nekolee.com',
   description: '一起摸鱼的地方。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
