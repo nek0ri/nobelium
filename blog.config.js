@@ -1,7 +1,7 @@
 const BLOG = {
   title: '声呐研究所',
   author: 'nekori',
-  email: 'nekonekori@outlook.com',
+  email: 'mattlee-personal@outlook.com',
   link: 'https://nekolee.com',
   description: '一起摸鱼的地方。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://x.com/_nekori',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
